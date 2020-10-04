@@ -8,7 +8,9 @@ The website provides some statistics about mental illnesses to give the users a 
 
 ![Screenshot2](https://github.com/AmyWeitzman/IvyHacks/blob/main/screenshot2.PNG?raw=true) <br>
 
-Ivy can help you with issues including 
+Ivy can help you with issues including depression, anxiety, stress, PTSD, addiction, ADHD, OCD, eating disorders, and suicidal thoughts.
+
+_Developed as part of Ivy Hacks_
 
 
 
